@@ -1,0 +1,12 @@
+.board {
+    background-image: url("https://i.pinimg.com/1200x/c3/d3/5c/c3d35c71daf5ecba72b0874f867e9f11.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    width: 1000px;
+    height: 650px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
